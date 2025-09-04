@@ -1,20 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Pedro Lucas
+
+**`Software Engineer`**
 
 ###
 
-<p align="left">A Software Enginner student. I am passionate about software development and thrive in dynamic environments. I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.</p>
+<p align="left">I'm a software developer with a curiosity for learning and improving. I focus on writing clean and reusable code, I enjoy collaborating and sharing knowledge with my friends. Focused, I also enjoy devising my own solutions for everyday challenges. In addition, I am committed to enhancing my skills on LeetCode to refine my problem-solving abilities.</p>
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🧑🏻‍💻 FullStack<br></p>
-
-###
-
-<h2 align="left">🎖 Main Skills</h2>
+<h2 align="left">🧰 Laguages and Tools</h2>
 
 ###
 
@@ -33,11 +27,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###
