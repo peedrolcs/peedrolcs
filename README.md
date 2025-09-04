@@ -1,34 +1,20 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<p align="left">A Software Enginner student. I am passionate about software development and thrive in dynamic environments. I am committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature, and networking.</p>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=peedrolcs.peedrolcs&"  />
-</div>
+<h2 align="left">About me</h2>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<p align="left">🧑🏻‍💻 FullStack<br></p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as FullStack<br><br></p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🎖 Main Skills</h2>
 
 ###
 
@@ -51,17 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=peedrolcs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
